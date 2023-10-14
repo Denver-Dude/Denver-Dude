@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denver-Dude&theme=dracula)![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denver-Dude&theme=dracula)![](https://raw.githubusercontent.com/Denver-Dude/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)
 <!--
 **Denver-Dude/Denver-Dude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
