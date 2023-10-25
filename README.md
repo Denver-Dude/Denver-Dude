@@ -48,8 +48,7 @@ I'm open to collaboration, discussions, and making new connections in the coding
 
 - [Email](mailto:denverjdemis@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/denver-john-demis/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [Personal Website/Blog](den-enterprise.github.io/Denver)
 
 Let's connect and share our passion for coding!
 
