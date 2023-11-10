@@ -1,7 +1,6 @@
 
 
 ![Stat1](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/e4a681af712448bd53a6c74af302621388221dd1/0-profile-details.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denver-Dude&theme=dracula)
 ![Stat2](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/e4a681af712448bd53a6c74af302621388221dd1/1-repos-per-language.svg)
 ![Stat3](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/e4a681af712448bd53a6c74af302621388221dd1/2-most-commit-language.svg)
 ![Stat4](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/e4a681af712448bd53a6c74af302621388221dd1/4-productive-time.svg)
