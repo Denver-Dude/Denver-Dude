@@ -1,7 +1,7 @@
 
 
 ![Stat1](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/refs/heads/main/0-profile-details%20(1).svg)
-![Stat4](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/refs/heads/main/0-profile-details-svg.svg)(https://den-enterprise.github.io/Denver/)
+![[Stat4](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/refs/heads/main/0-profile-details-svg.svg)](https://den-enterprise.github.io/Denver/)
 ![Stat2](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/refs/heads/main/1-repos-per-language.svg)
 ![Stat3](https://raw.githubusercontent.com/Denver-Dude/Denver-Dude/refs/heads/main/2-most-commit-language.svg)
 
