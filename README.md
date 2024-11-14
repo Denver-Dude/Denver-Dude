@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-Hello, I'm Denver-Dude, and I'm a passionate programmer and tech savvy who embarked on a coding journey in 2019. Since then, I've been on an exciting and ever-evolving path, exploring various programming languages and creating meaningful projects that have made a positive impact.
+Hello, I'm Denver-Dude, and I'm a passionate programmer who started his coding journey in 2019. Since then, I've been on an exciting and ever-evolving path, exploring various programming languages and creating meaningful projects that have made a positive impact.
 
 ## My Journey
 
