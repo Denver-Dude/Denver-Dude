@@ -27,7 +27,7 @@ Hello, I'm Denver-Dude, and I'm a passionate programmer who started his coding j
 
 ## My Journey
 
-- I began my coding adventure with HTML, laying the foundation for web development.
+- I began my coding adventure with HTML, laying the foundation for web development at 2019.
 - Soon after, I delved into Python, where I discovered the world of versatile scripting, data analysis, and automation.
 - Exploring R, I gained insights into statistical computing and data visualization.
 - My journey continued with languages like C, broadening my understanding of low-level programming and algorithms.
